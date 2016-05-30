@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Mobile Day Córdoba"
 email: "gdgcordoba@gmail.com"
 description: "El Mobile Day es un evento que trata de mostrar las diversas teconologías para el desarrollo móvil"
-baseurl: "/"
+baseurl: ""
 url: "http://gdgcordoba.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -35,10 +35,12 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
+# Documents
+c4pUrl: "https://docs.google.com/forms/d/1VHDlkK-wV4oL_UTYOqggoxHZRcUDk5o3iziV2r4_bB4"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Inicio"}
  - {permalink: "/schedule/", text: "Programa"}
  - {permalink: "/speakers/", text: "Ponentes"}
 
@@ -48,6 +50,8 @@ heroTitle: "Mobile Day <typeout> 2016"
 eventDate: "25 de Junio, 2016"
 typeoutTextValues: '"", "Córdoba", "Salmorejo", "Córdoba", "Berenjena", "Córdoba", "Ai! que caló"'
 typeoutFallback: "Season"
+heroButtons:
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 
 # Rockstar Speakers Block
