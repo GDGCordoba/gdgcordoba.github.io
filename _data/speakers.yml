@@ -1,8 +1,8 @@
 - 
-  id: 3
+  id: 1
   name: "Victor"
   surname: "Sanchez"
-  company: "MashMeT V"
+  company: "MashMe TV"
   title: "Google Developer Expert HTML5"
   bio: "Víctor es ingeniero, conferenciante y emprendedor. Actualmente dirige su propia empresa SyncRTC que provee de servicios de video colaboración a 1.000.000 de usuarios en 72 países. Su nueva obsesión es el desarrollo de aplicaciones de cliente con HTML5. Durante los últimos años Víctor ha estado organizando eventos y conferencias para niños y mayores como HTML5 vs Android, Hack4Good Spain, HTML5 Party, Iniciador Kids, GDG Kids y muchos otras con la intención de extender la importancia de los campos STEM y del desarrollo software. Recientemente nombrado Google Developer Expert en HTML5."
   thumbnailUrl: victor.png
@@ -10,7 +10,7 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/VictorSanchez"}
 - 
-  id: 4
+  id: 2
   name: "Esteban"
   surname: "Dorado"
   company: "BEEVA"
@@ -21,24 +21,35 @@
   social: 
     - {name: "twitter", link: "https://twitter.com/Mr_Esti"}
 - 
-  id: 5
+  id: 3
   name: "Sergi"
   surname: "Martinez"
   company: "Schibsted"
   title: "Google Developer Expert Android"
-  bio: "Android GDE y desarrollador en Schibsted. Pasión por la UI y los píxeles bien puestos. Me apasiona contar batallitas de la época del Cobol."
+  bio: "Android GDE y desarrollador en Schibsted. Pasión por la UI y los píxeles bien puestos. Le apasiona contar batallitas de la época del Cobol."
   thumbnailUrl: sergi.png
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/SergiAndReplace"}
 - 
-  id: 6
+  id: 4
   name: "Jorge"
   surname: "Barroso"
   company: "Karumi"
-  title: "Google Develoepr Expert Android"
+  title: "Google Developer Expert Android"
   bio: "Jorge Barroso es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android core. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
   thumbnailUrl: jorge.png
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/flipper83"}
+-
+  id: 5
+  name: "Lole"
+  surname: "Román"
+  company: "Fontown"
+  title: "UI Designer & Typographer"
+  bio: "Diseñador de UI/NUI y de tipos. Ahora? fundando @thebighouse_io y @fontown_, de charlas/workshops con @ComandoCran y organizando @thesingulars_es ^_^!"
+  thumbnailUrl: lole.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/loleRGB"}
