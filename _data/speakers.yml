@@ -22,15 +22,13 @@
     - {name: "twitter", link: "https://twitter.com/Mr_Esti"}
 - 
   id: 3
-  name: "Sergi"
-  surname: "Martinez"
-  company: "Schibsted"
-  title: "Google Developer Expert Android"
-  bio: "Android GDE y desarrollador en Schibsted. Pasión por la UI y los píxeles bien puestos. Le apasiona contar batallitas de la época del Cobol."
-  thumbnailUrl: sergi.png
+  name: "Sorpresa"
+  surname: ""
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: question.png
   rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/SergiAndReplace"}
 - 
   id: 4
   name: "Jorge"
